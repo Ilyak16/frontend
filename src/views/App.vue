@@ -65,7 +65,7 @@ const goToCart = () => {
 
     <!-- Подвал -->
     <footer class="footer">
-      <p>&copy; 2024 МагазинPlus. Все права защищены.</p>
+      <p>&copy; 2026 МагазинPlus. Все права защищены.</p>
     </footer>
   </div>
 </template>
